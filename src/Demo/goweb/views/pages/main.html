@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>主页（main.html）</title>
+</head>
+<body>
+
+<div>
+    <h1 style="text-align: center"><span style="color: #375eab">{{.User.Nickname}}</span> 欢迎回来</h1>
+</div>
+
+<div id="friend_info" style="float: left;width: 50%">
+    <h3>我的朋友列表</h3>
+    <table>
+
+    </table>
+</div>
+
+<div id="account" style="float: left ;width: 50%">
+
+    <!-- 查询消费记录-->
+    <div class="queryRecode">
+
+        <div class="topnav">
+            <a href="pages/addPayRecode.html">我的消费记录</a>
+            <a href="/AddPayPage" target="_self">添加消费记录</a><br>
+        </div>
+
+        <table border="1">
+            <tr>
+                <th>消费编号</th>
+                <th>收入/支出</th>
+                <th>用途</th>
+                <th>支付方式</th>
+                <th>金额</th>
+                <th>备注</th>
+                <th>消费日期</th>
+                <th>登记日期</th>
+            </tr>
+            {{range .ConsumptionRecode}}
+                <tr>
+                    <td>{{.ConsumptionRecodeId}}</td>
+                    <td>{{.Income}}</td>
+                    <td>{{.Purpose}}</td>
+                    <td>{{.PayType.PayType}}{{.PayType.PayTypeCard}}</td>
+                    <td>{{.Price}}</td>
+                    <td>{{.Detail}}</td>
+                    <td>{{.TradeTime}}</td>
+                    <td>{{.RecodeTime}}</td>
+                </tr>
+            {{end}}
+        </table>
+
+        <br>
+    </div>
+
+
+</div>
+</body>
+</html>

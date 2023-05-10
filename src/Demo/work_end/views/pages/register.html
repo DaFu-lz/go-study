@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>注册</title>
+</head>
+<link rel="stylesheet" type="text/css" href="/static/css/login.css">
+<script src="/static/js/register.js"></script>
+<body>
+<form action="/register" method="post">
+    <div id="register">
+        <h1>用户注册</h1>
+        <div class="name">
+            <label>
+                Username:<input type="text" id="username" name="username" value="">
+            </label>
+        </div>
+        <br>
+        <div class="word">
+            <label>
+                Password:<input type="password" id="password" name="password" value="">
+            </label>
+        </div>
+        <br>
+        <div>
+            <button type="submit" onclick="checkregister()">注册</button>
+        </div>
+    </div>
+</form>
+
+
+</body>
+</html>

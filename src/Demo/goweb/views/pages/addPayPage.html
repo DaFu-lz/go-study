@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>添加支付记录（addPayRecode.html）</title>
+</head>
+<body>
+<!-- 添加消费记录-->
+<div class="addPayRecode">
+    <form action="/AddPayRecode" method="post">
+        <table border="1">
+            <tr>
+                <td>收入/支出：</td>
+                <td><input type="radio" name="income" value="收入">收入
+                    <input type="radio" name="income" value="支出" checked="checked">支出
+                </td>
+            </tr>
+            <tr>
+                <td> 用途：</td>
+                <td><input type="radio" name="purpose" value="个人" checked="checked">个人
+                    <input type="radio" name="purpose" value="家人">家人
+                    <input type="radio" name="purpose" value="亲戚朋友">亲戚朋友
+                </td>
+            </tr>
+
+            <tr>
+                <td> 支付方式：</td>
+                <td>
+                    <select name="pay_type_id">
+                        {{range .PayType}}
+                            <option value="{{.PayTypeId}}">
+                                <span>{{.PayType}}</span>
+                                <span>: </span>
+                                <span>{{.PayTypeCard}}</span>
+                            </option>
+                        {{end}}
+                    </select>
+                </td>
+            </tr>
+
+
+            <tr>
+                <td>金额：</td>
+                <td><input type="text" name="price"></td>
+            </tr>
+            <tr>
+                <td>备注：</td>
+                <td><input type="text" name="detail"></td>
+            </tr>
+            <tr>
+                <td>消费日期：</td>
+                <td><input type="text"  name="trade_time"></td>
+               <!-- <td><input type="datetime-local" step="01" name="trade_time"></td> -->
+            </tr>
+            <tr>
+                <td>
+                    <button type="submit">确定</button>
+                </td>
+                <td><span>{{.Msg}}</span></td>
+            </tr>
+        </table>
+        <!--
+        收入/支出：<input type="radio" name="income" value="收入">收入
+        <input type="radio" name="income" value="支出">支出<br>
+        用途：<input type="radio" name="purpose" value="个人">个人
+        <input type="radio" name="purpose" value="家人">家人
+        <input type="radio" name="purpose" value="亲戚朋友">亲戚朋友 <br>
+        {{range .PayType}}
+            支付方式：<select name="pay_type_id">
+                <option value="{{.PayTypeId}}">{{.PayType}}{{.PayTypeCard}}</option>
+            </select><br>
+        {{end}}
+        金额：<input type="text" name="price"><br>
+        备注：<input type="text" name="detail"><br>
+        消费日期：<input type="datetime-local" step="01" name="trade_time"><br>
+        <button type="submit">确定</button>
+      -->
+    </form>
+</div>
+</body>
+</html>

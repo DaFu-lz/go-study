@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>登录界面</title>
+</head>
+<link rel="stylesheet" type="text/css" href="../static/css/login.css">
+<script src="../static/js/login.js"></script>
+<body>
+<form action="/Login" method="post">
+    <div id="login">
+        <h1>用户登录</h1>
+        <span id="msg">{{.Text}}</span>
+        <div class="name">
+            <label>
+                Username:<input type="text" id="username"  name="username" value="">
+
+            </label>
+        </div>
+        <br>
+        <div class="word">
+            <label>
+                Password:<input type="password" id="password" name="password" value="">
+            </label>
+        </div>
+        <br>
+        <div>
+            <button type="submit" onclick="check()">登录</button>
+            <a href="register.html" target="_self"><button type="button">注册</button></a>
+        </div>
+    </div>
+</form>
+
+
+</body>
+</html>

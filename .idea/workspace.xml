@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dcab4486-dd95-43bc-9afa-e60d65a86038" name="Default Changelist" comment="将项目提交至github">
+      <change afterPath="$PROJECT_DIR$/.idea/Go1.19.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/20b44c93-169b-485a-80ef-94fd36aa4959.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/20b44c93-169b-485a-80ef-94fd36aa4959/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/20b44c93-169b-485a-80ef-94fd36aa4959/storage_v2/_src_/schema/nature_demo.ewpOcw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/20b44c93-169b-485a-80ef-94fd36aa4959/storage_v2/_src_/schema/person.VZvjxA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/20b44c93-169b-485a-80ef-94fd36aa4959/storage_v2/_src_/schema/shop.9to1AA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/20b44c93-169b-485a-80ef-94fd36aa4959/storage_v2/_src_/schema/studentinfo.aVFejA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/6d69f4c8-8ca0-44c4-9f5b-79183df4376f.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/6d69f4c8-8ca0-44c4-9f5b-79183df4376f/storage_v2/_src_/schema/nature_demo.ewpOcw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/6d69f4c8-8ca0-44c4-9f5b-79183df4376f/storage_v2/_src_/schema/person.VZvjxA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/6d69f4c8-8ca0-44c4-9f5b-79183df4376f/storage_v2/_src_/schema/shop.9to1AA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/6d69f4c8-8ca0-44c4-9f5b-79183df4376f/storage_v2/_src_/schema/studentinfo.aVFejA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/6d69f4c8-8ca0-44c4-9f5b-79183df4376f/storage_v2/_src_/schema/sys.zb4BAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/6d69f4c8-8ca0-44c4-9f5b-79183df4376f/storage_v2/_src_/schema/sys.zb4BAA.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/d5afe98d-f0ca-4b3c-8a88-47e6cc77ac54.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/d5afe98d-f0ca-4b3c-8a88-47e6cc77ac54/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/windows_amd64/fyne.io/fyne/v2.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/windows_amd64/github.com/axgle/mahonia.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/windows_amd64/github.com/robotn/gohook.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/windows_amd64/github.com/shirou/gopsutil.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/GUI/A_first.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/MouseOperation.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/MouseOperation.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/Sin.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/game/PlantVsZipper.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/game/SoftTimer.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/game/keybroat.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/goweb/dao/paydao.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/goweb/dao/paydao_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/goweb/dao/userdao.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/goweb/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/goweb/model/Consumption_recode.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/goweb/model/page.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/goweb/model/pay_type.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/goweb/model/user.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/goweb/server/payHander.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/goweb/server/userHander.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/goweb/utils/mysql.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/goweb/views/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/goweb/views/pages/addPayPage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/goweb/views/pages/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/goweb/views/pages/regist.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/goweb/views/static/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/goweb/views/static/image/back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/goweb/views/static/js/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/goweb/views/static/js/regist.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/moneyPlan/MysqlUtils/dataProcess.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/moneyPlan/MysqlUtils/mysqlUtils.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/moneyPlan/moneyPlan.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/work_end/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/work_end/model/user.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/work_end/server/userhandler.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/work_end/usedb/user.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/work_end/usedb/user_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/work_end/utils/db.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/work_end/views/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/work_end/views/pages/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/work_end/views/pages/change.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/work_end/views/pages/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/work_end/views/pages/delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/work_end/views/pages/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/work_end/views/pages/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/work_end/views/pages/loginsuccess.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/work_end/views/pages/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/work_end/views/pages/tuijian.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/work_end/views/static/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/work_end/views/static/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/work_end/views/static/images/back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/work_end/views/static/images/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/work_end/views/static/images/first.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/work_end/views/static/images/headerbg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/work_end/views/static/images/name.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/work_end/views/static/images/password.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/work_end/views/static/js/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/work_end/views/static/js/register.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/crawl.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/mouseTest.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Utils/Crawl/crawl.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Utils/MouseUtils/mouse.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Utils/Mysql/MysqlUtils.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Utils/TimeUtils/timeUtils.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/awesomeProject/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/awesomeProject/hello.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookstore0612/.idea/bookstore0612.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookstore0612/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookstore0612/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookstore0612/controller/bookhandler.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookstore0612/controller/carthandler.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookstore0612/controller/orderhandler.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookstore0612/controller/userhandler.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookstore0612/dao/bookdao.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookstore0612/dao/cartItemdao.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookstore0612/dao/cartdao.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookstore0612/dao/orderItemdao.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookstore0612/dao/orderdao.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookstore0612/dao/sessiondao.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookstore0612/dao/userdao.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookstore0612/dao/userdao_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookstore0612/main.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookstore0612/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookstore0612/model/book.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookstore0612/model/cart.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookstore0612/model/cartItem.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookstore0612/model/json.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookstore0612/model/order.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookstore0612/model/orderItem.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookstore0612/model/page.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookstore0612/model/session.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookstore0612/model/user.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookstore0612/sql.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookstore0612/utils/db.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookstore0612/utils/uuid.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookstore0612/views/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookstore0612/views/pages/cart/cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookstore0612/views/pages/cart/checkout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookstore0612/views/pages/manager/book_edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookstore0612/views/pages/manager/book_manager.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookstore0612/views/pages/manager/manager.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookstore0612/views/pages/order/order.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookstore0612/views/pages/order/order_info.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookstore0612/views/pages/order/order_manager.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookstore0612/views/pages/user/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookstore0612/views/pages/user/login_success.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookstore0612/views/pages/user/regist.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookstore0612/views/pages/user/regist_success.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookstore0612/views/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookstore0612/views/static/img/default.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookstore0612/views/static/img/logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookstore0612/views/static/script/jquery-1.7.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter01.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/github.com/vcaesar/gops/.github/workflows/go.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/github.com/vcaesar/gops/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/github.com/vcaesar/gops/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/github.com/vcaesar/gops/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/github.com/vcaesar/gops/circle.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/github.com/vcaesar/gops/examples/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/github.com/vcaesar/gops/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/github.com/vcaesar/gops/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/github.com/vcaesar/gops/ps_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/goweb/day01/chapter01/chapter.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/goweb/day01/chapter01/chapter.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/goweb/day01/chapter02/chapter02.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/goweb/day01/chapter02/chapter02.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/goweb/day01/chapter02/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day01/Demo01/demo.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/Chapter01/Aa/chapter01.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/Chapter01/chapter01.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/Chapter01/chapter02.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/Chapter02/chapter01.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/Chapter02/chapter02.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/Chapter02/chapter03.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/Chapter02/chapter04.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/Chapter03/chapter01.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/Chapter03/chapter02.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/Chapter03/chapter03.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/Chapter03/chapter04.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/Chapter03/chapter05.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/Chapter03/chapter06.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/Chapter05/chapter01.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/.github/FUNDING.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/ChangeLog.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/_example/excel/excel.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/_example/excel2/excel.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/_example/ie/ie.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/_example/itunes/itunes.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/_example/libreoffice/libreoffice.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/_example/mediaplayer/mediaplayer.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/_example/msagent/msagent.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/_example/msxml/rssreader.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/_example/outlook/outlook.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/_example/winsock/winsock.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/appveyor.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/build/register-assembly.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/com.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/com_func.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/com_func_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/com_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/connect.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/connect_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/connect_windows_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/constants.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/data/screenshot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/error.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/error_func.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/error_windows.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/guid.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/guid_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/iconnectionpoint.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/iconnectionpoint_func.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/iconnectionpoint_windows.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/iconnectionpointcontainer.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/iconnectionpointcontainer_func.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/iconnectionpointcontainer_windows.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/idispatch.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/idispatch_func.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/idispatch_windows.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/idispatch_windows_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/ienumvariant.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/ienumvariant_func.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/ienumvariant_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/ienumvariant_windows.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/iinspectable.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/iinspectable_func.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/iinspectable_windows.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/iprovideclassinfo.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/iprovideclassinfo_func.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/iprovideclassinfo_windows.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/itypeinfo.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/itypeinfo_func.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/itypeinfo_windows.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/iunknown.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/iunknown_func.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/iunknown_windows.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/iunknown_windows_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/ole.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/oleutil/connection.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/oleutil/connection_func.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/oleutil/connection_windows.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/oleutil/go-get.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/oleutil/oleutil.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/safearray.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/safearray_func.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/safearray_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/safearray_windows.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/safearrayconversion.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/safearrayconversion_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/safearrayslices.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/utility.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/variables.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/variant.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/variant_386.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/variant_amd64.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/variant_arm.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/variant_arm64.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/variant_date_386.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/variant_date_amd64.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/variant_date_arm.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/variant_date_arm64.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/variant_ppc64le.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/variant_s390x.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/vt_string.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/winrt.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day02/src/github.com/go-ole/go-ole/winrt_doc.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day03/chapter01/chapter01.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day09/chapter01/chapter01.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day09/chapter01/chapter02.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day09/chapter02/chapter01.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day09/chapter03/chapter01.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day11/chapter07/chapter01.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day11/chapter13/chapter01.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day14/chapter01/chapter01.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day14/chapter01/chapter02.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notebook/day18/Chapter07/chapter01.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/signature-fuzzer/internal/fuzz-generator/generator.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/signature-fuzzer/internal/fuzz-generator/generator.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/notebook/day02/src/github.com/shirou/gopsutil/cpu/cpu_darwin_nocgo.go" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="Go Application" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="E:\Go" />
+  <component name="Git.Settings">
+    <option name="ADD_SUFFIX_TO_CHERRY_PICKS_OF_PUBLISHED_COMMITS" value="false" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/PuerkitoBio/goquery" />
+        <option value="https://github.com/andybalholm/cascadia" />
+        <option value="https://github.com/axgle/mahonia" />
+        <option value="https://github.com/go-ole/go-ole" />
+        <option value="https://github.com/go-vgo/robotgo" />
+        <option value="https://github.com/golang/image" />
+        <option value="https://github.com/golang/lint" />
+        <option value="https://github.com/golang/net" />
+        <option value="https://github.com/golang/sync" />
+        <option value="https://github.com/golang/text" />
+        <option value="https://github.com/golang/tools" />
+        <option value="https://github.com/kbinani/screenshot" />
+        <option value="https://github.com/lxn/win" />
+        <option value="https://github.com/vcaesar/imgo" />
+        <option value="https://github.com/vcaesar/tt" />
+      </set>
+    </option>
+  </component>
+  <component name="GoLibraries">
+    <option name="urls">
+      <list>
+        <option value="file://$PROJECT_DIR$/src/Demo/work_end" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Utils/MouseUtils/mouse.go" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="2J1ue9SaOcDxxC36V0osKFcrOm5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="go.vendoring.notification.had.been.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Work\Go1.19\src\Demo\moneyPlan\MysqlUtils" />
+      <recent name="E:\Work\Go1.19\src\Test" />
+      <recent name="E:\Work\Go1.19\src" />
+      <recent name="E:\Work\Go1.19\src\notebook" />
+      <recent name="E:\Work\Go1.19\src\Utils\MouseUtils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Work\Go1.19\src" />
+      <recent name="E:\Work\Go1.19\src\Demo\goweb\views\static\js" />
+      <recent name="E:\Work\Go1.19\src\Demo\goweb\views\static\css" />
+      <recent name="E:\Work\Go1.19\src\Demo\goweb\views\static\image" />
+      <recent name="E:\Work\Go1.19\src\Demo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build notebook/day11/chapter07">
+    <configuration name="go build chapter01.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Go1.19" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/notebook/day11/chapter13/chapter01.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Go1.19" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/Demo/goweb/main.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build notebook/day11/chapter07" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Go1.19" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/src/notebook/day11/chapter07/chapter01.go" />
+      <package value="notebook/day11/chapter07" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build notebook/day11/chapter07" />
+        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Build.go build chapter01.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/src/github.com/shirou/gopsutil/gopsutil" />
+      <path value="$PROJECT_DIR$/src/Day02/src/github.com/go-ole/go-ole" />
+      <path value="$PROJECT_DIR$/src/Day02/src/github.com/shirou/gopsutil" />
+      <path value="$PROJECT_DIR$/src/Day02/src/github.com/yusufpapurcu/wmi" />
+      <path value="$PROJECT_DIR$/src/github.com/vcaesar/gops" />
+    </ignored-roots>
+    <MESSAGE value="Default Changelist" />
+    <MESSAGE value="将项目提交至github" />
+    <option name="LAST_COMMIT_MESSAGE" value="将项目提交至github" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="815" y="431" key="#Custom_Plugin_Repositories" timestamp="1678613863584">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="815" y="431" key="#Custom_Plugin_Repositories/0.0.1920.1040@0.0.1920.1040" timestamp="1678613863584" />
+    <state x="970" y="299" key="#Deployment" timestamp="1683691225707">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="970" y="299" key="#Deployment/0.0.1920.1040@0.0.1920.1040" timestamp="1683691225707" />
+    <state x="1160" y="361" key="#Go_Modules" timestamp="1677483859049">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1160" y="361" key="#Go_Modules/0.0.1920.1040@0.0.1920.1040" timestamp="1677483859049" />
+    <state x="714" y="250" key="#HTTP_Proxy" timestamp="1681022956682">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="714" y="250" key="#HTTP_Proxy/0.0.1920.1040@0.0.1920.1040" timestamp="1681022956682" />
+    <state x="420" y="153" key="#Inspections" timestamp="1680950536543">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="420" y="153" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1680950536543" />
+    <state x="702" y="340" key="#Notifications" timestamp="1679046169222">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="702" y="340" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1679046169222" />
+    <state x="329" y="361" key="#SQL_Dialects" timestamp="1681200557009">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="329" y="361" key="#SQL_Dialects/0.0.1920.1040@0.0.1920.1040" timestamp="1681200557009" />
+    <state x="414" y="22" width="1092" height="1018" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1682256749878">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="22" width="1092" height="1018" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1682256749878" />
+    <state x="414" y="215" width="1092" height="776" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.40.1920.1040@0.40.1920.1040" timestamp="1676969808170" />
+    <state x="698" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1681273476277">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="698" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1681273476277" />
+    <state x="711" y="383" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1679044177806">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="711" y="383" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1679044177806" />
+    <state x="560" y="166" key="CommitChangelistDialog2" timestamp="1683692296833">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="560" y="166" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1683692296833" />
+    <state x="801" y="278" key="EnvironmentVariablesDialog" timestamp="1678450097997">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="801" y="278" key="EnvironmentVariablesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1678450097997" />
+    <state x="732" y="271" key="FileChooserDialogImpl" timestamp="1683692064721">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="732" y="271" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1683692064721" />
+    <state x="732" y="311" key="FileChooserDialogImpl/0.40.1920.1040@0.40.1920.1040" timestamp="1676966689603" />
+    <state x="623" y="467" width="461" height="205" key="Github.ShareDialog" timestamp="1683695392620">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="467" width="461" height="205" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1683695392620" />
+    <state x="774" y="134" key="Github.UntrackedFilesDialog" timestamp="1683691615277">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="774" y="134" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1683691615277" />
+    <state width="1877" height="168" key="GridCell.Tab.0.bottom" timestamp="1683021201129">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="168" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1683021201129" />
+    <state width="825" height="200" key="GridCell.Tab.0.bottom/0.40.1920.1040@0.40.1920.1040" timestamp="1676978373373" />
+    <state width="1877" height="168" key="GridCell.Tab.0.center" timestamp="1683021201129">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="168" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1683021201129" />
+    <state width="825" height="200" key="GridCell.Tab.0.center/0.40.1920.1040@0.40.1920.1040" timestamp="1676978373373" />
+    <state width="1877" height="168" key="GridCell.Tab.0.left" timestamp="1683021201129">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="168" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1683021201129" />
+    <state width="825" height="200" key="GridCell.Tab.0.left/0.40.1920.1040@0.40.1920.1040" timestamp="1676978373373" />
+    <state width="1877" height="168" key="GridCell.Tab.0.right" timestamp="1683021201129">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="168" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1683021201129" />
+    <state width="825" height="200" key="GridCell.Tab.0.right/0.40.1920.1040@0.40.1920.1040" timestamp="1676978373373" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1680264810798">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1680264810798" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1680264810798">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1680264810798" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1680264810798">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1680264810798" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1680264810798">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1680264810798" />
+    <state width="220" height="477" key="HiddenNamespacesPopup" timestamp="1680233833402">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="220" height="477" key="HiddenNamespacesPopup/0.0.1920.1040@0.0.1920.1040" timestamp="1680233833402" />
+    <state x="540" y="254" key="IDE.errors.dialog" timestamp="1680244979463">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="254" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1680244979463" />
+    <state x="700" y="138" key="RollbackChangesDialog" timestamp="1683086495347">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="700" y="138" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1683086495347" />
+    <state x="636" y="179" width="998" height="708" key="SettingsEditor" timestamp="1683695301127">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="636" y="179" width="998" height="708" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1683695301127" />
+    <state x="444" y="217" key="SettingsEditor/0.40.1920.1040@0.40.1920.1040" timestamp="1676966691004" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1683086527025">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1683086527025" />
+    <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1677487372022">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="968" height="528" key="XDebugger.FullValuePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1677487372022" />
+    <state x="879" y="465" key="com.intellij.database.run.ParametersPanel.Standalone" timestamp="1680946727431">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="879" y="465" key="com.intellij.database.run.ParametersPanel.Standalone/0.0.1920.1040@0.0.1920.1040" timestamp="1680946727431" />
+    <state x="771" y="209" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1679037649921">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="771" y="209" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1679037649921" />
+    <state x="763" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1683692599706">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="763" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1683692599706" />
+    <state x="135" y="0" width="1148" height="752" key="dock-window-1" timestamp="1681369918192">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="135" y="0" width="1148" height="752" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1681369918192" />
+    <state x="35" y="277" width="1736" height="856" key="dock-window-2" timestamp="1680879634599">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="35" y="277" width="1736" height="856" key="dock-window-2/0.0.1920.1040@0.0.1920.1040" timestamp="1680879634599" />
+    <state width="500" height="350" key="documentation.popup.size" timestamp="1681723203456">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="500" height="350" key="documentation.popup.size/0.0.1920.1040@0.0.1920.1040" timestamp="1681723203456" />
+    <state x="915" y="338" key="git4idea.history.wholeTree.VcsStructureChooser" timestamp="1683692516612">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="915" y="338" key="git4idea.history.wholeTree.VcsStructureChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1683692516612" />
+    <state x="1125" y="302" width="672" height="678" key="search.everywhere.popup" timestamp="1683085773726">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1125" y="302" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1683085773726" />
+    <state x="1125" y="342" width="672" height="678" key="search.everywhere.popup/0.40.1920.1040@0.40.1920.1040" timestamp="1676947995319" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/notebook/day18/Chapter07/chapter01.go</url>
+          <line>24</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/notebook/day18/Chapter07/chapter01.go</url>
+          <line>39</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/notebook/day18/Chapter07/chapter01.go</url>
+          <line>42</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/notebook/day18/Chapter07/chapter01.go</url>
+          <line>48</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/notebook/day18/Chapter07/chapter01.go</url>
+          <line>51</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/notebook/day18/Chapter07/chapter01.go</url>
+          <line>62</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/notebook/day18/Chapter07/chapter01.go</url>
+          <line>71</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/notebook/day18/Chapter07/chapter01.go</url>
+          <line>80</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/notebook/day18/Chapter07/chapter01.go</url>
+          <line>87</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="GoApplicationRunConfiguration">
+        <watch expression="*(*&quot;net/http.Request&quot;)(824635195648)" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
