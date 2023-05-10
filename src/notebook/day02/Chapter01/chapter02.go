@@ -1,8 +1,8 @@
 package main
 
 import (
-	"day02/Chapter01/Aa"
 	"fmt"
+	"notebook/day02/Chapter01/Aa"
 )
 
 func main() {
